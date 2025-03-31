@@ -14,7 +14,7 @@ const readline = require("readline");
 /* 1) Set up your AWS RDS credentials*/
 
 const dbConfig = {
-  host: "cloudrdpractice.clqw0km2kdyk.ap-northeast-2.rds.amazonaws.com",
+  host: "XXXXXXX.rds.amazonaws.com",
   user: "YOUR_RDS_USERNAME",
   password: "YOUR_RDS_PASSWORD",
   database: "YOUR_DATABASE_NAME",
