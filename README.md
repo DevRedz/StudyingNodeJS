@@ -61,7 +61,7 @@ Open `memo.js` and locate the `dbConfig` object:
 
 ```js
 const dbConfig = {
-  host: 'cloudrdpractice.clqw0km2kdyk.ap-northeast-2.rds.amazonaws.com', // Replace with your RDS endpoint
+  host: 'XXXXXX.rds.amazonaws.com', // Replace with your RDS endpoint
   user: 'YOUR_RDS_USERNAME',    // Replace with your RDS username
   password: 'YOUR_RDS_PASSWORD',// Replace with your RDS password
   database: 'YOUR_DATABASE_NAME'// Replace with your database name
